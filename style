@@ -1,0 +1,28 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: #fef7f2;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+h1 {
+  font-size: 3rem;
+  color: #ff6b81;
+}
+button {
+  padding: 10px 20px;
+  background-color: #ffc1cc;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #ff95a3;
+}
+.letter, .music, .star {
+  margin: 40px 0;
+}
